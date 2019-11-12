@@ -13,7 +13,7 @@ Requirements which will need to be meet are:
 Everything on the project was done from scratch. Components were selected to be the best trade-off between low power consumption and performance. PCB was designed to occupy space as little as possible, to make the device more compact. Software was written without using any additional APIs like HAL or CMSIS.
 
 ## List of Components
-![alt text](https://raw.githubusercontent.comostrakovic-mirsad/SmartWatch/edit/master/solution_diagram.jpg)
+![alt text](https://raw.githubusercontent.com/ostrakovic-mirsad/SmartWatch/master/solution_diagram.jpg)
 
-![alt text](https://raw.githubusercontent.comostrakovic-mirsad/SmartWatch/edit/master/pieces_diagram.jpg)
+![alt text](https://raw.githubusercontent.com/ostrakovic-mirsad/SmartWatch/master/pieces_diagram.jpg)
 
