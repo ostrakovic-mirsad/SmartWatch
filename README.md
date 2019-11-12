@@ -1,5 +1,7 @@
 # SmartWatch
 
+Video of the latest release you can see on https://www.youtube.com/watch?v=AnGylwPH40Y. New prototype version coming soon, it will be the first which will be wearable.
+
 ## Introduction
 The project was done under sponsorship of Storsen, for my bachelor thesis. The main goal was to design a brand new smartwatch, which would perfectly fit an average student use cases.
 
